@@ -1,0 +1,503 @@
+Order_ID,Order_Date,Customer_Name,City,State,Product_Category,Product_Name,Quantity,Unit_Price,Discount,Payment_Mode,Sales_Channel
+ORD0001,2025-04-25,Rahul Patil,Pune,Maharashtra,Electronics,Wireless Mouse,3.0,699,100.0,Net Banking,Online
+ORD0002,2025-04-22,Sneha Mehta,Delhi,Delhi,Electronics,Wireless Mouse,1.0,699,0.0,Net Banking,Online
+ORD0003,2025-04-23,Vikas Pawar,Nashik,Maharashtra,Home & Kitchen,Electric Kettle,5.0,1299,250.0,Debit Card,Online
+ORD0004,2025-05-23,Rahul Joshi,Nagpur,Maharashtra,Home & Kitchen,Electric Kettle,4.0,1299,200.0,Debit Card,Online
+ORD0005,2025-06-26,Suresh Kulkarni,Pune,Maharashtra,Furniture,Bookshelf,1.0,3299,200.0,UPI,Offline
+ORD0006,2025-11-18,Suresh Verma,Pune,Maharashtra,Furniture,Bookshelf,1.0,3299,150.0,Net Banking,Online
+ORD0007,2025-02-10,Nisha Joshi,Pune,Maharashtra,Electronics,Wireless Mouse,2.0,699,150.0,UPI,Offline
+ORD0008,2025-07-09,  Rohan Joshi  ,Bengaluru,Karnataka,Clothing,T-Shirt,3.0,799,50.0,Debit Card,Online
+ORD0009,2025-08-25,Pooja Kulkarni,Nagpur,Maharashtra,Clothing,Jeans,2.0,1599,50.0,Net Banking,Online
+ORD0010,2025-01-17,Akash Verma,Hyderabad,Telangana,Home & Kitchen,Dinner Set,1.0,2199,100.0,Cash,Offline
+ORD0011,2025-04-19,Kiran Gupta,Pune,Maharashtra,Electronics,Headphones,5.0,1999,200.0,Cash,Offline
+ORD0012,2025-10-15,Anita Kulkarni,Nagpur,Maharashtra,Furniture,Office Chair,2.0,6499,100.0,Net Banking,Offline
+ORD0013,2025-09-18,Vikas Patil,Delhi,Delhi,Furniture,Study Table,2.0,4999,50.0,UPI,Online
+ORD0014,2025-11-02,Priya Singh,Nagpur,Maharashtra,Home & Kitchen,Mixer Grinder,2.0,2899,250.0,Cash,Offline
+ORD0015,2025-12-16,Vivek Mehta,Bengaluru,Karnataka,Clothing,Jeans,1.0,1599,0.0,Debit Card,Offline
+ORD0016,2025-08-21,Amit Kulkarni,Pune,Maharashtra,Furniture,Office Chair,4.0,6499,50.0,Net Banking,Online
+ORD0017,2025-03-20,Rohan Deshmukh,Pune,Maharashtra,Home & Kitchen,Mixer Grinder,3.0,2899,100.0,Net Banking,Online
+ORD0018,2025-07-05,Vivek Kulkarni,Hyderabad,Telangana,Clothing,T-Shirt,1.0,799,0.0,Credit Card,Online
+ORD0019,2025-09-06,Nisha Patil, Nashik ,Maharashtra,Clothing,Jacket,1.0,2499,0.0,Net Banking,Online
+ORD0020,2025-05-16,Anita Pawar,Nagpur,Maharashtra,Home & Kitchen,Mixer Grinder,4.0,2899,50.0,Cash,Online
+ORD0021,2025-12-10,Kiran Verma,Nashik,Maharashtra,Home & Kitchen,Electric Kettle,3.0,1299,250.0,Cash,Offline
+ORD0022,2025-06-23,Amit Pawar,Pune,Maharashtra,Electronics,Headphones,2.0,1999,0.0,Net Banking,Online
+ORD0023,2025-04-28,Priya Sharma,Nashik,Maharashtra,Electronics,Wireless Mouse,1.0,699,0.0,Debit Card,Online
+ORD0024,2025-10-04,Rahul Pawar,Nashik,Maharashtra,Furniture,Office Chair,4.0,6499,100.0,Net Banking,Offline
+ORD0025,2025-04-08,Priya Patil,Nashik,Maharashtra,Home & Kitchen,Dinner Set,4.0,2199,250.0,Cash,Offline
+ORD0026,2025-12-11,Kiran Shinde,Delhi,Delhi,Furniture,Bookshelf,4.0,3299,0.0,UPI,Online
+ORD0027,2025-05-08,Sneha Joshi,Delhi,Delhi,Home & Kitchen,Electric Kettle,3.0,1299,0.0,Net Banking,Offline
+ORD0028,2025-08-25,Sneha Patil,Nagpur,Maharashtra,Furniture,Bookshelf,2.0,3299,150.0,Cash,Online
+ORD0029,2025-02-17,Vivek Joshi,Mumbai,Maharashtra,Home & Kitchen,Mixer Grinder,5.0,2899,0.0,Credit Card,Offline
+ORD0030,2025-01-31,Rahul Singh,Ahmedabad,Gujarat,Clothing,T-Shirt,2.0,799,250.0,UPI,Offline
+ORD0031,2025-08-05,Meena Mehta,Bengaluru,Karnataka,Home & Kitchen,Dinner Set,4.0,2199,150.0,Cash,Online
+ORD0032,2025-10-24,MEENA MEHTA,Nashik,Maharashtra,Furniture,Office Chair,2.0,6499,0.0,UPI,Offline
+ORD0033,2025-09-15,Vivek Mehta,Mumbai,Maharashtra,Electronics,Wireless Mouse,5.0,699,300.0,Credit Card,Online
+ORD0034,2025-12-12,Nisha Joshi,Pune,Maharashtra,Electronics,Keyboard,1.0,999,0.0,Cash,Online
+ORD0035,2025-11-14,Priya Singh,Nashik,Maharashtra,Clothing,Jacket,5.0,2499,0.0,Net Banking,Offline
+ORD0036,2025-05-16,Pooja Deshmukh,Bengaluru,Karnataka,Electronics,Headphones,3.0,1999,100.0,Debit Card,Offline
+ORD0037,2025-08-23,Suresh Pawar,Hyderabad,Telangana,Home & Kitchen,Dinner Set,1.0,2199,0.0,UPI,Online
+ORD0038,2025-06-28,Vivek Patil,Nashik,Maharashtra,Clothing,Jeans,3.0,1599,50.0,Credit Card,Offline
+ORD0039,2025-11-10,Akash Shinde,Bengaluru,Karnataka,Electronics,Keyboard,4.0,999,150.0,Net Banking,Online
+ORD0040,2025-05-16,Priya Patil,Bengaluru,Karnataka,Home & Kitchen,Mixer Grinder,1.0,2899,50.0,Net Banking,Online
+ORD0041,2025-06-25,Sneha Shinde,Bengaluru,Karnataka,Furniture,Office Chair,5.0,6499,100.0,Debit Card,Offline
+ORD0042,2025-05-22,Amit Sharma,Bengaluru,Karnataka,Electronics,Wireless Mouse,1.0,699,250.0,Debit Card,Online
+ORD0043,2025-10-15,Amit Patil,bengaluru,Karnataka,Electronics,Keyboard,4.0,999,250.0,UPI,Online
+ORD0044,2025-08-09,Rahul Sharma,Mumbai,Maharashtra,Furniture,Study Table,5.0,4999,50.0,Debit Card,Offline
+ORD0045,2025-12-08,Priya Verma,Mumbai,Maharashtra,Furniture,Study Table,2.0,4999,100.0,Net Banking,Offline
+ORD0046,2025-07-31,Amit Deshmukh,Nagpur,Maharashtra,Electronics,Headphones,2.0,1999,50.0,Debit Card,Offline
+ORD0047,2025-07-15,Nisha Sharma,Nashik,Maharashtra,Furniture,Office Chair,2.0,6499,0.0,Cash,Online
+ORD0048,2025-04-27,Sneha Sharma,Nashik,Maharashtra,Clothing,T-Shirt,3.0,799,150.0,Credit Card,Offline
+ORD0049,2025-06-29,Kiran Mehta,Hyderabad,Telangana,Furniture,Office Chair,1.0,6499,150.0,Cash,Offline
+ORD0050,2025-10-25,Neha Sharma,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,3.0,1499,50.0,UPI,Offline
+ORD0051,2025-11-07,Anita Patil,Hyderabad,Telangana,Home & Kitchen,Electric Kettle,3.0,1299,250.0,Cash,Online
+ORD0052,2025-09-24,Vivek Mehta,Bengaluru,Karnataka,Electronics,Wireless Mouse,4.0,699,0.0,Credit Card,Offline
+ORD0053,2025-12-06,Nisha Patil,Delhi,Delhi,Electronics,Bluetooth Speaker,3.0,1499,200.0,Debit Card,Offline
+ORD0054,2025-10-11,Rahul Joshi,Delhi,Delhi,Furniture,Study Table,4.0,4999,150.0,Cash,Offline
+ORD0055,2025-07-27,Anita Sharma,Nagpur,Maharashtra,Clothing,Jacket,5.0,2499,150.0,Debit Card,Offline
+ORD0056,2025-08-27,Vikas Gupta,Nashik,Maharashtra,Furniture,Bookshelf,5.0,3299,200.0,Credit Card,Offline
+ORD0057,2025-09-21,Kiran Shinde,Nagpur,Maharashtra,Home & Kitchen,Mixer Grinder,1.0,2899,150.0,Net Banking,Offline
+ORD0058,2025-04-26,Akash Joshi,Pune,Maharashtra,Home & Kitchen,Dinner Set,2.0,2199,150.0,Credit Card,Online
+ORD0059,2025-08-22,Pooja Shinde,Mumbai,Maharashtra,Electronics,Headphones,4.0,1999,0.0,Net Banking,Online
+ORD0060,2025-03-17,Kiran Sharma,Delhi,Delhi,Clothing,T-Shirt,4.0,799,100.0,UPI,Offline
+ORD0060,2025-01-26,Anita Joshi,Nashik,Maharashtra,Electronics,Keyboard,5.0,999,300.0,UPI,Offline
+ORD0062,2025-08-15,Suresh Mehta,Nagpur,Maharashtra,Home & Kitchen,Dinner Set,4.0,2199,200.0,Cash,Offline
+ORD0063,2025-05-13,Akash Joshi,Nagpur,Maharashtra,Home & Kitchen,Electric Kettle,4.0,1299,300.0,Debit Card,Offline
+ORD0064,2025-05-27,Sneha Kulkarni,Nashik,Maharashtra,Furniture,Office Chair,4.0,6499,0.0,Debit Card,Offline
+ORD0065,2025-07-16,Meena Deshmukh,Pune,Maharashtra,Electronics,Keyboard,2.0,999,100.0,Credit Card,Online
+ORD0066,2025-08-01,Amit Joshi,Delhi,Delhi,Furniture,Bookshelf,3.0,3299,300.0,Cash,Offline
+ORD0067,2025-09-02,Amit Verma,Mumbai,Maharashtra,Home & Kitchen,Dinner Set,5.0,2199,250.0,Debit Card,Offline
+ORD0068,2025-09-07,Sneha Kulkarni,Delhi,Delhi,Clothing,Jeans,5.0,1599,100.0,Cash,Offline
+ORD0069,2025-03-26,Nisha Gupta,Mumbai,Maharashtra,Furniture,Bookshelf,3.0,3299,250.0,Credit Card,Online
+ORD0070,2025-02-12,Kiran Singh,Delhi,Delhi,Clothing,Jacket,5.0,2499,0.0,Credit Card,Offline
+ORD0071,2025-06-17,Sneha Gupta,Nagpur,Maharashtra,Electronics,Wireless Mouse,3.0,699,250.0,Debit Card,Offline
+ORD0072,2025-02-11,Vikas Sharma,Delhi,Delhi,Furniture,Office Chair,4.0,6499,150.0,Net Banking,Online
+ORD0073,2025-01-16,Sneha Joshi,Hyderabad,Telangana,Electronics,Headphones,1.0,1999,0.0,UPI,Online
+ORD0074,2025-10-16,Sneha Gupta,Nashik,Maharashtra,Electronics,Keyboard,4.0,999,0.0,Debit Card,Offline
+ORD0075,2025-03-25,Neha Patil,Nagpur,Maharashtra,Clothing,Jacket,5.0,2499,0.0,Net Banking,Online
+ORD0076,2025-04-12,Priya Pawar,Bengaluru,Karnataka,Clothing,Jacket,4.0,2499,,Credit Card,Online
+ORD0077,2025-10-17,Akash Sharma,Bengaluru,Karnataka,Home & Kitchen,Mixer Grinder,5.0,2899,0.0,Debit Card,Offline
+ORD0078,2025-01-07,Nisha Singh,Hyderabad,Telangana,Electronics,Bluetooth Speaker,5.0,1499,200.0,Cash,Online
+ORD0079,2025-08-11,Rahul Mehta,Delhi,Delhi,Furniture,Study Table,4.0,4999,50.0,Debit Card,Offline
+ORD0080,2025-06-15,Nisha Joshi,Ahmedabad,Gujarat,Furniture,Bookshelf,5.0,3299,150.0,UPI,Offline
+ORD0081,2025-06-22,Amit Gupta,Ahmedabad,Gujarat,Electronics,Headphones,4.0,1999,250.0,Debit Card,Online
+ORD0082,2025-06-24,Neha Pawar,Ahmedabad,Gujarat,Electronics,Headphones,3.0,1999,150.0,Debit Card,Online
+ORD0083,2025-09-08,Anita Joshi,Nashik,Maharashtra,Electronics,Bluetooth Speaker,2.0,1499,250.0,Cash,Offline
+ORD0084,2025-05-31,Sneha Singh,Ahmedabad,Gujarat,Home & Kitchen,Dinner Set,1.0,2199,0.0,Credit Card,Offline
+ORD0085,2025-08-06,Meena Mehta,Hyderabad,Telangana,Clothing,T-Shirt,5.0,799,200.0,Debit Card,Offline
+ORD0086,2025-04-29,Priya Joshi,Ahmedabad,Gujarat,Furniture,Office Chair,3.0,6499,150.0,Debit Card,Online
+ORD0087,2025-05-22,Meena Pawar,Nagpur,Maharashtra,Electronics,Headphones,2.0,1999,300.0,Net Banking,Offline
+ORD0088,2025-07-04,Rahul Kulkarni,Pune,Maharashtra,Electronics,Headphones,3.0,1999,100.0,UPI,Online
+ORD0089,2025-12-24,Rahul Shinde,Bengaluru,Karnataka,Electronics,Wireless Mouse,1.0,699,150.0,Cash,Online
+ORD0090,2025-09-03,Vikas Verma,Mumbai,Maharashtra,Clothing,Jacket,3.0,2499,300.0,Credit Card,Online
+ORD0091,2025-07-25,Vikas Patil,Bengaluru,Karnataka,Clothing,T-Shirt,1.0,799,0.0,Net Banking,Online
+ORD0092,2025-02-13,Sneha Patil,Nagpur,Maharashtra,Electronics,Keyboard,,999,150.0,Net Banking,Offline
+ORD0093,2025-08-19,Vivek Gupta,Nashik,Maharashtra,Home & Kitchen,Dinner Set,5.0,2199,250.0,Debit Card,Offline
+ORD0094,2025-11-09,Meena Patil,Bengaluru,Karnataka,Clothing,Jacket,5.0,2499,0.0,Credit Card,Online
+ORD0095,2025-05-03,Rahul Mehta,Bengaluru,Karnataka,Home & Kitchen,Mixer Grinder,1.0,2899,50.0,UPI,Online
+ORD0096,2025-05-30,Amit Joshi,Mumbai,Maharashtra,Furniture,Bookshelf,4.0,3299,300.0,Debit Card,Offline
+ORD0097,2025-11-17,Suresh Shinde,Ahmedabad,Gujarat,Electronics,Bluetooth Speaker,2.0,1499,150.0,Credit Card,Offline
+ORD0098,2025-05-17,Nisha Deshmukh,Pune,Maharashtra,Clothing,Jeans,2.0,1599,50.0,UPI,Online
+ORD0099,2025-08-13,Priya Gupta,Nagpur,Maharashtra,Home & Kitchen,Dinner Set,3.0,2199,150.0,Debit Card,Offline
+ORD0100,2025-08-13,Priya Pawar,Bengaluru,Karnataka,Clothing,Jeans,5.0,1599,300.0,UPI,Offline
+ORD0101,2025-02-16,Sneha Shinde,Hyderabad,Telangana,Clothing,Jacket,3.0,2499,0.0,Net Banking,Online
+ORD0102,2025-08-29,Anita Shinde,Bengaluru,Karnataka,Clothing,Jacket,1.0,2499,50.0,Cash,Offline
+ORD0103,2025-02-16,Vikas Verma,Nagpur,Maharashtra,Clothing,Jacket,4.0,2499,300.0,Cash,Offline
+ORD0104,2025-06-18,Pooja Gupta,Hyderabad,Telangana,Home & Kitchen,Mixer Grinder,1.0,2899,50.0,Debit Card,Offline
+ORD0105,2025-05-10,Rohan Patil,Mumbai,Maharashtra,Clothing,T-Shirt,1.0,799,200.0,Cash,Online
+ORD0106,2025-09-23,Rohan Pawar,Ahmedabad,Gujarat,Furniture,Bookshelf,1.0,3299,100.0,Cash,Offline
+ORD0107,2025-05-28,Vikas Gupta,Mumbai,Maharashtra,Electronics,Headphones,3.0,1999,50.0,UPI,Online
+ORD0108,2025-10-10,Amit Mehta,Nashik,Maharashtra,Home & Kitchen,Electric Kettle,2.0,1299,150.0,Cash,Online
+ORD0109,2025-11-28,Nisha Deshmukh,Nashik,Maharashtra,Electronics,Bluetooth Speaker,4.0,1499,0.0,Cash,Offline
+ORD0110,2025-05-05,Vikas Mehta,Bengaluru,Karnataka,Furniture,Bookshelf,4.0,3299,300.0,Credit Card,Offline
+ORD0111,2025-02-05,Neha Singh,Nashik,Maharashtra,Clothing,Jacket,5.0,2499,50.0,Debit Card,Offline
+ORD0112,2025-03-18,Vikas Mehta,Mumbai,Maharashtra,Furniture,Office Chair,3.0,6499,300.0,Cash,Offline
+ORD0113,2025-08-22,Vivek Verma,Hyderabad,Telangana,Clothing,Jeans,5.0,1599,250.0,Credit Card,Online
+ORD0114,2025-06-12,Meena Gupta,Delhi,Delhi,Electronics,Headphones,4.0,1999,0.0,Cash,Offline
+ORD0115,2025-09-15,Suresh Verma,Nagpur,Maharashtra,Clothing,T-Shirt,1.0,799,50.0,UPI,Offline
+ORD0116,2025-03-15,Pooja Shinde,Pune,Maharashtra,Clothing,Jeans,4.0,1599,0.0,Credit Card,Online
+ORD0117,2025-11-16,Meena Singh,Ahmedabad,Gujarat,Home & Kitchen,Dinner Set,3.0,2199,200.0,UPI,Offline
+ORD0118,2025-11-13,Priya Joshi,Delhi,Delhi,Furniture,Study Table,4.0,4999,0.0,Debit Card,Online
+ORD0119,2025-08-16,Rahul Kulkarni,Pune,Maharashtra,Furniture,Bookshelf,1.0,3299,0.0,UPI,Online
+ORD0120,2025-07-03,Rohan Singh,Hyderabad,Telangana,Home & Kitchen,Dinner Set,1.0,2199,150.0,Credit Card,Online
+ORD0121,2025-03-31,Priya Pawar,Delhi,Delhi,Clothing,Jacket,2.0,2499,50.0,Cash,Online
+ORD0122,2025-08-25,Kiran Kulkarni,Ahmedabad,Gujarat,Clothing,Jacket,2.0,2499,100.0,Cash,Offline
+ORD0123,2025-12-13,Anita Deshmukh,Mumbai,Maharashtra,Home & Kitchen,Dinner Set,4.0,2199,150.0,UPI,Offline
+ORD0124,2025-12-20,Neha Gupta,Hyderabad,Telangana,Clothing,Jacket,3.0,2499,250.0,Debit Card,Online
+ORD0125,2025-07-15,Suresh Verma,Delhi,Delhi,Clothing,T-Shirt,1.0,799,100.0,Net Banking,Offline
+ORD0126,2025-01-05,Suresh Shinde,Bengaluru,Karnataka,Electronics,Wireless Mouse,4.0,699,150.0,UPI,Offline
+ORD0127,2025-04-23,Kiran Joshi,Bengaluru,Karnataka,Home & Kitchen,Dinner Set,2.0,2199,200.0,Net Banking,Offline
+ORD0128,2025-06-08,Akash Gupta,Nagpur,Maharashtra,Home & Kitchen,Mixer Grinder,1.0,2899,0.0,UPI,Offline
+ORD0129,2025-08-01,Rahul Joshi,Nagpur,Maharashtra,Electronics,Bluetooth Speaker,3.0,1499,200.0,Credit Card,Offline
+ORD0130,2025-06-01,Meena Verma,Bengaluru,Karnataka,Electronics,Keyboard,3.0,999,300.0,UPI,Offline
+ORD0131,2025-10-13,Rohan Patil,Pune,Maharashtra,Electronics,Keyboard,2.0,999,250.0,Cash,Online
+ORD0132,2025-07-08,Kiran Shinde,Bengaluru,Karnataka,Clothing,Jeans,1.0,1599,300.0,Debit Card,Offline
+ORD0133,2025-01-13,Suresh Mehta,Hyderabad,Telangana,Electronics,Bluetooth Speaker,2.0,1499,300.0,Debit Card,Online
+ORD0134,2025-11-29,Pooja Patil,Pune,Maharashtra,Home & Kitchen,Mixer Grinder,4.0,2899,150.0,Credit Card,Online
+ORD0135,2025-02-19,Sneha Mehta,Mumbai,Maharashtra,Furniture,Office Chair,4.0,6499,0.0,Credit Card,Offline
+ORD0136,2025-10-28,Meena Deshmukh,Ahmedabad,Gujarat,Furniture,Study Table,5.0,4999,250.0,Cash,Online
+ORD0137,2025-01-17,Meena Verma,Ahmedabad,Gujarat,Clothing,Jacket,4.0,2499,150.0,Credit Card,Offline
+ORD0138,2025-12-18,Rohan Mehta,Ahmedabad,Gujarat,Electronics,Headphones,3.0,1999,0.0,Debit Card,Online
+ORD0139,2025-08-21,Priya Shinde,Delhi,Delhi,Furniture,Office Chair,2.0,6499,0.0,Credit Card,Online
+ORD0140,2025-03-06,Akash Pawar,Mumbai,Maharashtra,Home & Kitchen,Dinner Set,3.0,2199,100.0,Credit Card,Online
+ORD0141,2025-06-18,Akash Deshmukh,Nashik,Maharashtra,Clothing,Jacket,2.0,2499,100.0,Net Banking,Online
+ORD0142,2025-03-31,Priya Shinde,Bengaluru,Karnataka,Electronics,Keyboard,2.0,999,150.0,UPI,Online
+ORD0143,2025-01-09,Rahul Kulkarni,Mumbai,Maharashtra,Furniture,Study Table,2.0,4999,200.0,UPI,Online
+ORD0144,2025-09-01,Vikas Verma,Delhi,Delhi,Clothing,Jeans,1.0,1599,0.0,Net Banking,Online
+ORD0145,2025-12-04,Anita Kulkarni,Ahmedabad,Gujarat,Clothing,Jeans,2.0,1599,0.0,Cash,Online
+ORD0146,2025-12-18,Priya Gupta,Mumbai,Maharashtra,Clothing,T-Shirt,4.0,799,250.0,Cash,Online
+ORD0147,2025-02-03,Rahul Kulkarni,Pune,Maharashtra,Furniture,Study Table,5.0,4999,50.0,Net Banking,Offline
+ORD0148,2025-08-21,Anita Pawar,Delhi,Delhi,Clothing,Jacket,5.0,2499,150.0,Cash,Online
+ORD0149,2025-08-09,Vikas Joshi,Pune,Maharashtra,Home & Kitchen,Mixer Grinder,5.0,2899,100.0,Cash,Offline
+ORD0150,2025-06-10,Pooja Verma,Ahmedabad,Gujarat,Furniture,Bookshelf,4.0,3299,0.0,Debit Card,Offline
+ORD0151,2025-02-16,Nisha Patil,Nagpur,Maharashtra,Home & Kitchen,Mixer Grinder,4.0,2899,0.0,UPI,Offline
+ORD0152,2025-10-12,Amit Pawar,Pune,Maharashtra,Home & Kitchen,Electric Kettle,3.0,1299,50.0,Net Banking,Offline
+ORD0153,2025-01-27,Neha Pawar,Pune,Maharashtra,Furniture,Bookshelf,3.0,3299,250.0,Debit Card,Offline
+ORD0154,2025-03-21,Kiran Gupta,Pune,Maharashtra,Clothing,Jacket,5.0,2499,100.0,Credit Card,Online
+ORD0155,2025-05-23,Suresh Joshi,Hyderabad,Telangana,Clothing,Jeans,3.0,1599,0.0,Cash,Online
+ORD0156,2025-12-26,Akash Kulkarni,Bengaluru,Karnataka,Electronics,Wireless Mouse,2.0,699,150.0,Debit Card,Offline
+ORD0157,2025-02-05,Rahul Shinde,Mumbai,Maharashtra,Electronics,Keyboard,2.0,999,250.0,UPI,Online
+ORD0158,2025-06-24,Rahul Verma,Nashik,Maharashtra,Furniture,Bookshelf,4.0,3299,300.0,Debit Card,Offline
+ORD0159,2025-11-13,Amit Shinde,Pune,Maharashtra,Electronics,Wireless Mouse,2.0,699,50.0,UPI,Offline
+ORD0160,2025-11-07,Vikas Singh,Ahmedabad,Gujarat,Home & Kitchen,Mixer Grinder,4.0,2899,300.0,Debit Card,Online
+ORD0161,2025-05-26,Kiran Shinde,Pune,Maharashtra,Furniture,Study Table,4.0,4999,0.0,Net Banking,Offline
+ORD0162,2025-11-03,Amit Sharma,Bengaluru,Karnataka,Electronics,Wireless Mouse,2.0,699,250.0,Credit Card,Offline
+ORD0163,2025-05-29,Rohan Patil,Nashik,Maharashtra,Home & Kitchen,Dinner Set,2.0,2199,150.0,UPI,Offline
+ORD0164,2025-09-30,Meena Joshi,Delhi,Delhi,Electronics,Keyboard,2.0,999,250.0,Net Banking,Offline
+ORD0165,2025-01-10,Vikas Patil,Pune,Maharashtra,Furniture,Bookshelf,1.0,3299,250.0,Debit Card,Offline
+ORD0166,2025-02-28,Pooja Sharma,Delhi,Delhi,Home & Kitchen,Electric Kettle,4.0,1299,150.0,Debit Card,Online
+ORD0167,2025-08-12,Nisha Patil,Ahmedabad,Gujarat,Home & Kitchen,Electric Kettle,3.0,1299,0.0,Credit Card,Offline
+ORD0168,2025-06-08,Meena Verma,Delhi,Delhi,Clothing,Jeans,1.0,1599,250.0,Credit Card,Offline
+ORD0169,2025-09-29,Anita Joshi,Nagpur,Maharashtra,Electronics,Bluetooth Speaker,5.0,1499,0.0,Debit Card,Offline
+ORD0170,2025-05-12,Sneha Deshmukh,Nagpur,Maharashtra,Electronics,Headphones,1.0,1999,50.0,Net Banking,Online
+ORD0171,2025-10-16,Akash Pawar,Pune,Maharashtra,Electronics,Keyboard,4.0,999,300.0,Cash,Offline
+ORD0172,2025-08-29,Vikas Shinde,Hyderabad,Telangana,Electronics,Keyboard,4.0,999,0.0,Debit Card,Offline
+ORD0173,2025-06-08,Vikas Gupta,Mumbai,Maharashtra,Furniture,Study Table,5.0,4999,0.0,UPI,Online
+ORD0174,2025-11-11,Suresh Mehta,Hyderabad,Telangana,Furniture,Office Chair,1.0,6499,0.0,Cash,Offline
+ORD0175,2025-06-14,Suresh Gupta,Mumbai,Maharashtra,Clothing,T-Shirt,5.0,799,100.0,Net Banking,Online
+ORD0176,2025-02-13,Anita Shinde,Mumbai,Maharashtra,Clothing,T-Shirt,1.0,799,200.0,Credit Card,Online
+ORD0177,2025-09-26,Anita Pawar,Nashik,Maharashtra,Home & Kitchen,Electric Kettle,4.0,1299,300.0,Credit Card,Offline
+ORD0178,2025-06-23,Kiran Pawar,Hyderabad,Telangana,Furniture,Office Chair,4.0,6499,250.0,UPI,Offline
+ORD0179,2025-05-26,Neha Shinde,Pune,Maharashtra,Furniture,Study Table,1.0,4999,250.0,Net Banking,Online
+ORD0180,2025-06-29,Neha Shinde,Hyderabad,Telangana,Electronics,Bluetooth Speaker,5.0,1499,50.0,Cash,Online
+ORD0181,2025-11-26,Akash Verma,Pune,Maharashtra,Furniture,Office Chair,5.0,6499,250.0,Credit Card,Online
+ORD0182,2025-07-05,Neha Deshmukh,Delhi,Delhi,Clothing,Jeans,3.0,1599,0.0,Credit Card,Offline
+ORD0183,2025-03-21,Priya Kulkarni,Ahmedabad,Gujarat,Electronics,Headphones,2.0,1999,50.0,UPI,Online
+ORD0184,2025-11-02,Pooja Deshmukh,Hyderabad,Telangana,Home & Kitchen,Dinner Set,5.0,2199,50.0,Credit Card,Online
+ORD0185,2025-07-30,Rohan Shinde,Nagpur,Maharashtra,Home & Kitchen,Electric Kettle,4.0,1299,0.0,Credit Card,Offline
+ORD0186,2025-10-01,Sneha Kulkarni,Bengaluru,Karnataka,Home & Kitchen,Dinner Set,4.0,2199,100.0,Cash,Online
+ORD0187,2025-08-25,Akash Kulkarni,Hyderabad,Telangana,Home & Kitchen,Mixer Grinder,5.0,2899,300.0,Cash,Offline
+ORD0188,2025-05-09,Amit Shinde,Nagpur,Maharashtra,Electronics,Headphones,5.0,1999,50.0,Cash,Offline
+ORD0189,2025-05-26,Priya Deshmukh,Pune,Maharashtra,Home & Kitchen,Electric Kettle,5.0,1299,0.0,Debit Card,Offline
+ORD0190,2025-08-19,Vivek Verma,Nagpur,Maharashtra,Furniture,Bookshelf,1.0,3299,100.0,UPI,Offline
+ORD0191,2025-05-01,Pooja Patil,Mumbai,Maharashtra,Furniture,Bookshelf,5.0,3299,200.0,Debit Card,Online
+ORD0192,2025-03-16,Rahul Sharma,Mumbai,Maharashtra,Furniture,Study Table,1.0,4999,200.0,Debit Card,Offline
+ORD0193,2025-11-12,Amit Patil,Nagpur,Maharashtra,Home & Kitchen,Dinner Set,4.0,2199,300.0,UPI,Offline
+ORD0194,2025-02-26,Akash Kulkarni,Nashik,Maharashtra,Electronics,Keyboard,5.0,999,250.0,Credit Card,Offline
+ORD0195,2025-11-24,Akash Pawar,Pune,Maharashtra,Electronics,Wireless Mouse,2.0,699,250.0,Cash,Online
+ORD0196,2025-11-20,Anita Pawar,Pune,Maharashtra,Clothing,T-Shirt,5.0,799,0.0,Credit Card,Online
+ORD0197,2025-05-04,Suresh Singh,Bengaluru,Karnataka,Furniture,Bookshelf,1.0,3299,200.0,Credit Card,Online
+ORD0198,2025-07-19,Nisha Gupta,Hyderabad,Telangana,Electronics,Bluetooth Speaker,5.0,1499,0.0,UPI,Offline
+ORD0199,2025-02-04,Rohan Joshi,Hyderabad,Telangana,Furniture,Office Chair,1.0,6499,200.0,UPI,Offline
+ORD0200,2025-11-26,Rahul Shinde,Nagpur,Maharashtra,Electronics,Wireless Mouse,3.0,699,200.0,Cash,Offline
+ORD0201,2025-08-23,Amit Kulkarni,Nagpur,Maharashtra,Home & Kitchen,Dinner Set,2.0,2199,0.0,Credit Card,Online
+ORD0202,2025-09-21,Pooja Mehta,Nashik,Maharashtra,Electronics,Wireless Mouse,3.0,699,150.0,Cash,Offline
+ORD0203,2025-07-02,Nisha Sharma,Mumbai,Maharashtra,Home & Kitchen,Dinner Set,2.0,2199,150.0,Debit Card,Offline
+ORD0204,2025-07-24,Meena Gupta,Pune,Maharashtra,Home & Kitchen,Dinner Set,3.0,2199,250.0,Cash,Offline
+ORD0205,2025-09-23,Neha Patil,Nagpur,Maharashtra,Clothing,T-Shirt,4.0,799,200.0,Cash,Online
+ORD0206,2025-06-14,Priya Patil,Delhi,Delhi,Clothing,Jacket,2.0,2499,150.0,Debit Card,Offline
+ORD0207,2025-03-27,Meena Gupta,Bengaluru,Karnataka,Clothing,T-Shirt,5.0,799,250.0,Debit Card,Offline
+ORD0208,2025-05-21,Kiran Sharma,Mumbai,Maharashtra,Home & Kitchen,Electric Kettle,3.0,1299,250.0,UPI,Offline
+ORD0209,2025-03-15,Nisha Pawar,Hyderabad,Telangana,Clothing,Jeans,2.0,1599,0.0,Cash,Online
+ORD0210,2025-07-05,Pooja Pawar,Nagpur,Maharashtra,Electronics,Bluetooth Speaker,2.0,1499,200.0,UPI,Online
+ORD0211,2025-02-09,Suresh Deshmukh,Ahmedabad,Gujarat,Furniture,Study Table,3.0,4999,300.0,Net Banking,Offline
+ORD0212,2025-02-28,Amit Deshmukh,Delhi,Delhi,Furniture,Study Table,3.0,4999,100.0,Cash,Offline
+ORD0213,2025-04-20,Suresh Kulkarni,Pune,Maharashtra,Furniture,Office Chair,3.0,6499,300.0,Cash,Online
+ORD0214,2025-03-30,Vivek Gupta,Pune,Maharashtra,Electronics,Keyboard,1.0,999,300.0,UPI,Offline
+ORD0215,2025-06-03,Nisha Deshmukh,Hyderabad,Telangana,Home & Kitchen,Electric Kettle,1.0,1299,150.0,Credit Card,Offline
+ORD0216,2025-05-02,Akash Gupta,Nashik,Maharashtra,Electronics,Bluetooth Speaker,2.0,1499,50.0,UPI,Offline
+ORD0217,2025-11-10,Vivek Patil,Hyderabad,Telangana,Clothing,T-Shirt,5.0,799,50.0,UPI,Offline
+ORD0218,2025-07-29,Nisha Pawar,Delhi,Delhi,Home & Kitchen,Electric Kettle,4.0,1299,250.0,UPI,Online
+ORD0219,2025-08-27,Kiran Mehta,Hyderabad,Telangana,Home & Kitchen,Mixer Grinder,1.0,2899,300.0,Debit Card,Online
+ORD0220,2025-09-15,Vivek Sharma,Nagpur,Maharashtra,Home & Kitchen,Dinner Set,2.0,2199,250.0,UPI,Online
+ORD0221,2025-12-30,Sneha Verma,Bengaluru,Karnataka,Electronics,Keyboard,2.0,999,200.0,Net Banking,Offline
+ORD0222,2025-03-06,Kiran Kulkarni,Pune,Maharashtra,Furniture,Office Chair,2.0,6499,150.0,Net Banking,Online
+ORD0223,2025-03-29,Kiran Pawar,Nagpur,Maharashtra,Clothing,Jacket,5.0,2499,50.0,Net Banking,Offline
+ORD0224,2025-11-25,Akash Pawar,Mumbai,Maharashtra,Electronics,Wireless Mouse,1.0,699,0.0,Debit Card,Online
+ORD0225,2025-11-18,Anita Kulkarni,Delhi,Delhi,Clothing,Jacket,1.0,2499,300.0,Debit Card,Offline
+ORD0226,2025-08-21,Priya Sharma,Nashik,Maharashtra,Home & Kitchen,Dinner Set,4.0,2199,150.0,Credit Card,Offline
+ORD0227,2025-06-24,Suresh Deshmukh,Delhi,Delhi,Clothing,T-Shirt,4.0,799,100.0,Debit Card,Offline
+ORD0228,2025-09-21,Anita Patil,Hyderabad,Telangana,Furniture,Bookshelf,2.0,3299,200.0,Debit Card,Online
+ORD0229,2025-05-07,Rahul Patil,Ahmedabad,Gujarat,Electronics,Bluetooth Speaker,3.0,1499,300.0,UPI,Offline
+ORD0230,2025-03-23,Nisha Verma,Delhi,Delhi,Clothing,Jacket,4.0,2499,100.0,Net Banking,Offline
+ORD0231,2025-09-21,Vikas Gupta,Nashik,Maharashtra,Home & Kitchen,Dinner Set,2.0,2199,300.0,Debit Card,Offline
+ORD0232,2025-05-04,Sneha Pawar,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,4.0,1499,300.0,Debit Card,Online
+ORD0233,2025-05-27,Anita Sharma,Mumbai,Maharashtra,Furniture,Office Chair,4.0,6499,300.0,UPI,Offline
+ORD0234,2025-07-07,Amit Singh,Nagpur,Maharashtra,Furniture,Office Chair,3.0,6499,250.0,UPI,Online
+ORD0235,2025-07-17,Anita Gupta,Hyderabad,Telangana,Clothing,Jeans,3.0,1599,0.0,Net Banking,Offline
+ORD0236,2025-07-11,Akash Verma,Pune,Maharashtra,Electronics,Keyboard,1.0,999,250.0,Net Banking,Offline
+ORD0237,2025-09-14,Amit Sharma,Nagpur,Maharashtra,Electronics,Headphones,5.0,1999,250.0,UPI,Online
+ORD0238,2025-03-18,Suresh Mehta,Hyderabad,Telangana,Home & Kitchen,Dinner Set,4.0,2199,300.0,Credit Card,Offline
+ORD0239,2025-10-31,Rohan Mehta,Hyderabad,Telangana,Electronics,Keyboard,4.0,999,150.0,Net Banking,Offline
+ORD0240,2025-06-19,Kiran Patil,Bengaluru,Karnataka,Clothing,T-Shirt,1.0,799,200.0,Cash,Offline
+ORD0241,2025-12-02,Akash Pawar,Mumbai,Maharashtra,Clothing,Jacket,4.0,2499,150.0,Net Banking,Online
+ORD0242,2025-09-26,Kiran Pawar,Mumbai,Maharashtra,Clothing,Jacket,4.0,2499,50.0,Cash,Online
+ORD0243,2025-04-08,Amit Gupta,Nashik,Maharashtra,Electronics,Wireless Mouse,5.0,699,0.0,Debit Card,Offline
+ORD0244,2025-09-14,Akash Pawar,Nagpur,Maharashtra,Furniture,Bookshelf,2.0,3299,250.0,Cash,Online
+ORD0245,2025-12-06,Vikas Mehta,Nagpur,Maharashtra,Clothing,Jeans,2.0,1599,200.0,Cash,Offline
+ORD0246,2025-10-07,Rohan Shinde,Nagpur,Maharashtra,Clothing,T-Shirt,5.0,799,200.0,Debit Card,Offline
+ORD0247,2025-04-26,Neha Kulkarni,Nashik,Maharashtra,Electronics,Headphones,3.0,1999,150.0,Credit Card,Offline
+ORD0248,2025-05-28,Priya Pawar,Hyderabad,Telangana,Clothing,T-Shirt,3.0,799,150.0,Net Banking,Offline
+ORD0249,2025-01-22,Neha Patil,Delhi,Delhi,Furniture,Study Table,2.0,4999,150.0,Debit Card,Offline
+ORD0250,2025-04-14,Nisha Mehta,Bengaluru,Karnataka,Home & Kitchen,Electric Kettle,4.0,1299,100.0,Debit Card,Offline
+ORD0251,2025-05-05,Amit Shinde,Nagpur,Maharashtra,Electronics,Bluetooth Speaker,5.0,1499,100.0,Net Banking,Online
+ORD0252,2025-06-19,Meena Gupta,Nashik,Maharashtra,Electronics,Wireless Mouse,1.0,699,250.0,UPI,Online
+ORD0253,2025-12-01,Vivek Gupta,Mumbai,Maharashtra,Clothing,Jeans,2.0,1599,250.0,Cash,Online
+ORD0254,2025-02-15,Kiran Pawar,Bengaluru,Karnataka,Furniture,Study Table,3.0,4999,0.0,Credit Card,Online
+ORD0255,2025-07-23,Akash Gupta,Nagpur,Maharashtra,Furniture,Bookshelf,2.0,3299,0.0,Credit Card,Offline
+ORD0256,2025-06-21,Neha Gupta,Mumbai,Maharashtra,Electronics,Wireless Mouse,3.0,699,0.0,Net Banking,Offline
+ORD0257,2025-04-09,Akash Patil,Nagpur,Maharashtra,Clothing,Jeans,4.0,1599,150.0,Debit Card,Online
+ORD0258,2025-01-08,Meena Verma,Ahmedabad,Gujarat,Home & Kitchen,Mixer Grinder,3.0,2899,50.0,Debit Card,Online
+ORD0259,2025-09-21,Rohan Patil,Nagpur,Maharashtra,Clothing,Jacket,4.0,2499,250.0,Cash,Online
+ORD0260,2025-05-08,Amit Kulkarni,Nagpur,Maharashtra,Electronics,Keyboard,4.0,999,200.0,Cash,Online
+ORD0261,2025-06-04,Suresh Pawar,Ahmedabad,Gujarat,Home & Kitchen,Dinner Set,3.0,2199,200.0,UPI,Offline
+ORD0262,2025-12-08,Priya Gupta,Hyderabad,Telangana,Home & Kitchen,Electric Kettle,2.0,1299,0.0,Debit Card,Online
+ORD0263,2025-12-20,Priya Shinde,Delhi,Delhi,Home & Kitchen,Mixer Grinder,5.0,2899,150.0,Debit Card,Offline
+ORD0264,2025-03-20,Vikas Pawar,Nashik,Maharashtra,Electronics,Headphones,2.0,1999,300.0,Debit Card,Offline
+ORD0265,2025-05-07,Kiran Pawar,Ahmedabad,Gujarat,Home & Kitchen,Dinner Set,5.0,2199,100.0,UPI,Offline
+ORD0266,2025-02-01,Nisha Mehta,Hyderabad,Telangana,Electronics,Bluetooth Speaker,5.0,1499,0.0,Net Banking,Online
+ORD0267,2025-03-01,Kiran Joshi,Nagpur,Maharashtra,Electronics,Keyboard,3.0,999,300.0,Net Banking,Offline
+ORD0268,2025-08-21,Rahul Mehta,Pune,Maharashtra,Clothing,Jeans,4.0,1599,0.0,Cash,Offline
+ORD0269,2025-01-12,Pooja Kulkarni,Mumbai,Maharashtra,Clothing,Jeans,4.0,1599,150.0,UPI,Online
+ORD0270,2025-12-25,Priya Mehta,Pune,Maharashtra,Electronics,Wireless Mouse,4.0,699,200.0,UPI,Online
+ORD0271,2025-04-03,Akash Deshmukh,Ahmedabad,Gujarat,Electronics,Wireless Mouse,3.0,699,250.0,Cash,Offline
+ORD0272,2025-02-11,Kiran Shinde,Delhi,Delhi,Clothing,T-Shirt,4.0,799,250.0,Net Banking,Online
+ORD0273,2025-09-28,Rahul Joshi,Hyderabad,Telangana,Electronics,Bluetooth Speaker,2.0,1499,250.0,UPI,Online
+ORD0274,2025-09-30,Pooja Joshi,Bengaluru,Karnataka,Clothing,T-Shirt,5.0,799,250.0,Credit Card,Offline
+ORD0275,2025-02-27,Amit Shinde,Hyderabad,Telangana,Electronics,Keyboard,3.0,999,100.0,Cash,Online
+ORD0276,2025-11-01,Amit Gupta,Nashik,Maharashtra,Electronics,Headphones,1.0,1999,0.0,Net Banking,Online
+ORD0277,2025-08-13,Sneha Mehta,Nashik,Maharashtra,Home & Kitchen,Electric Kettle,1.0,1299,250.0,Credit Card,Online
+ORD0278,2025-10-22,Rohan Pawar,Nagpur,Maharashtra,Clothing,Jeans,3.0,1599,100.0,Net Banking,Offline
+ORD0279,2025-07-31,Neha Kulkarni,Nashik,Maharashtra,Furniture,Office Chair,2.0,6499,100.0,UPI,Online
+ORD0280,2025-06-26,Kiran Shinde,Delhi,Delhi,Clothing,Jeans,4.0,1599,0.0,Cash,Offline
+ORD0281,2025-07-12,Rahul Mehta,Delhi,Delhi,Furniture,Bookshelf,2.0,3299,150.0,Cash,Online
+ORD0282,2025-01-30,Anita Singh,Nashik,Maharashtra,Furniture,Office Chair,2.0,6499,300.0,Cash,Online
+ORD0283,2025-06-19,Kiran Patil,Delhi,Delhi,Electronics,Headphones,3.0,1999,100.0,Cash,Offline
+ORD0284,2025-05-18,Pooja Shinde,Pune,Maharashtra,Clothing,Jeans,2.0,1599,0.0,Net Banking,Online
+ORD0285,2025-09-03,Sneha Verma,Pune,Maharashtra,Electronics,Headphones,5.0,1999,100.0,Debit Card,Online
+ORD0286,2025-05-05,Meena Pawar,Nashik,Maharashtra,Electronics,Headphones,1.0,1999,300.0,Credit Card,Offline
+ORD0287,2025-07-14,Vikas Mehta,Nashik,Maharashtra,Clothing,Jeans,3.0,1599,150.0,Debit Card,Offline
+ORD0288,2025-08-27,Priya Gupta,Bengaluru,Karnataka,Furniture,Study Table,5.0,4999,300.0,Debit Card,Online
+ORD0289,2025-10-16,Nisha Joshi,Hyderabad,Telangana,Furniture,Study Table,4.0,4999,0.0,Credit Card,Online
+ORD0290,2025-06-01,Rahul Joshi,Bengaluru,Karnataka,Clothing,Jeans,5.0,1599,250.0,Debit Card,Online
+ORD0291,2025-10-09,Kiran Shinde,Delhi,Delhi,Clothing,Jacket,2.0,2499,300.0,Debit Card,Offline
+ORD0292,2025-03-28,Meena Verma,Ahmedabad,Gujarat,Home & Kitchen,Electric Kettle,4.0,1299,300.0,Credit Card,Online
+ORD0293,2025-09-26,Amit Patil,Ahmedabad,Gujarat,Electronics,Keyboard,5.0,999,0.0,UPI,Online
+ORD0294,2025-12-29,Rahul Sharma,Delhi,Delhi,Electronics,Keyboard,2.0,999,0.0,Credit Card,Offline
+ORD0295,2025-12-04,Vikas Sharma,Hyderabad,Telangana,Electronics,Wireless Mouse,5.0,699,300.0,UPI,Offline
+ORD0296,2025-10-02,Neha Sharma,Mumbai,Maharashtra,Electronics,Wireless Mouse,5.0,699,150.0,Net Banking,Offline
+ORD0297,2025-05-04,Sneha Pawar,Nagpur,Maharashtra,Electronics,Bluetooth Speaker,1.0,1499,50.0,Net Banking,Offline
+ORD0298,2025-07-11,Pooja Gupta,Hyderabad,Telangana,Furniture,Office Chair,4.0,6499,0.0,Net Banking,Online
+ORD0299,2025-02-17,Pooja Singh,Nashik,Maharashtra,Furniture,Office Chair,1.0,6499,0.0,Cash,Offline
+ORD0300,2025-02-12,Vikas Singh,Mumbai,Maharashtra,Home & Kitchen,Mixer Grinder,1.0,2899,50.0,Debit Card,Online
+ORD0301,2025-05-19,Amit Patil,Mumbai,Maharashtra,Electronics,Headphones,2.0,1999,300.0,Debit Card,Online
+ORD0302,2025-10-28,Rahul Singh,Nagpur,Maharashtra,Furniture,Study Table,1.0,4999,100.0,UPI,Offline
+ORD0303,2025-12-13,Vivek Mehta,Nagpur,Maharashtra,Clothing,Jacket,2.0,2499,250.0,Debit Card,Offline
+ORD0304,2025-01-28,Priya Singh,Nagpur,Maharashtra,Home & Kitchen,Dinner Set,1.0,2199,200.0,Credit Card,Online
+ORD0305,2025-06-17,Amit Shinde,Hyderabad,Telangana,Clothing,Jacket,5.0,2499,250.0,Debit Card,Offline
+ORD0306,2025-08-10,Rahul Shinde,Ahmedabad,Gujarat,Electronics,Headphones,3.0,1999,250.0,Net Banking,Offline
+ORD0307,2025-05-07,Meena Patil,Pune,Maharashtra,Home & Kitchen,Dinner Set,5.0,2199,150.0,UPI,Offline
+ORD0308,2025-06-12,Rohan Patil,Nagpur,Maharashtra,Furniture,Bookshelf,2.0,3299,250.0,UPI,Online
+ORD0309,2025-02-22,Rahul Patil,Bengaluru,Karnataka,Clothing,T-Shirt,3.0,799,150.0,Credit Card,Offline
+ORD0310,2025-02-22,Amit Patil,Ahmedabad,Gujarat,Clothing,Jeans,5.0,1599,250.0,Debit Card,Online
+ORD0311,2025-07-31,Pooja Patil,Hyderabad,Telangana,Furniture,Bookshelf,1.0,3299,150.0,Net Banking,Online
+ORD0312,2025-03-13,Neha Kulkarni,Nagpur,Maharashtra,Home & Kitchen,Mixer Grinder,4.0,2899,50.0,Debit Card,Offline
+ORD0313,2025-05-22,Pooja Kulkarni,Nagpur,Maharashtra,Electronics,Bluetooth Speaker,2.0,1499,250.0,Cash,Online
+ORD0314,2025-11-01,Suresh Joshi,Hyderabad,Telangana,Furniture,Office Chair,2.0,6499,300.0,Cash,Online
+ORD0315,2025-06-20,Nisha Pawar,Nagpur,Maharashtra,Furniture,Office Chair,1.0,6499,250.0,Cash,Offline
+ORD0316,2025-06-03,Rohan Pawar,Ahmedabad,Gujarat,Furniture,Study Table,4.0,4999,50.0,Credit Card,Offline
+ORD0317,2025-05-30,Meena Shinde,Hyderabad,Telangana,Electronics,Keyboard,4.0,999,200.0,Cash,Online
+ORD0318,2025-07-06,Priya Pawar,Hyderabad,Telangana,Furniture,Bookshelf,3.0,3299,250.0,Credit Card,Online
+ORD0319,2025-08-13,Akash Kulkarni,Mumbai,Maharashtra,Home & Kitchen,Electric Kettle,4.0,1299,100.0,UPI,Offline
+ORD0320,2025-05-10,Kiran Deshmukh,Ahmedabad,Gujarat,Electronics,Keyboard,3.0,999,100.0,Cash,Offline
+ORD0321,2025-10-26,Pooja Mehta,Pune,Maharashtra,Clothing,T-Shirt,5.0,799,300.0,Net Banking,Offline
+ORD0322,2025-02-25,Akash Joshi,Mumbai,Maharashtra,Home & Kitchen,Dinner Set,3.0,2199,0.0,Debit Card,Online
+ORD0323,2025-08-09,Priya Sharma,Mumbai,Maharashtra,Clothing,Jacket,4.0,2499,200.0,UPI,Offline
+ORD0324,2025-08-17,Rohan Singh,Nashik,Maharashtra,Clothing,Jeans,5.0,1599,100.0,Cash,Online
+ORD0325,2025-06-01,Pooja Patil,Hyderabad,Telangana,Electronics,Wireless Mouse,4.0,699,0.0,UPI,Online
+ORD0326,2025-04-16,Anita Gupta,Hyderabad,Telangana,Furniture,Office Chair,3.0,6499,300.0,Debit Card,Offline
+ORD0327,2025-02-04,Neha Sharma,Pune,Maharashtra,Clothing,T-Shirt,4.0,799,200.0,UPI,Online
+ORD0328,2025-05-05,Anita Deshmukh,Hyderabad,Telangana,Home & Kitchen,Mixer Grinder,1.0,2899,50.0,Net Banking,Online
+ORD0329,2025-04-29,Akash Singh,Hyderabad,Telangana,Clothing,Jeans,4.0,1599,300.0,Credit Card,Online
+ORD0330,2025-08-19,Suresh Singh,Delhi,Delhi,Furniture,Bookshelf,1.0,3299,100.0,Cash,Online
+ORD0331,2025-10-23,Priya Mehta,Nashik,Maharashtra,Electronics,Headphones,3.0,1999,0.0,Credit Card,Offline
+ORD0332,2025-05-15,Kiran Gupta,Hyderabad,Telangana,Electronics,Headphones,4.0,1999,0.0,Net Banking,Offline
+ORD0333,2025-06-28,Rohan Gupta,Delhi,Delhi,Clothing,Jacket,4.0,2499,0.0,Net Banking,Online
+ORD0334,2025-12-11,Rahul Verma,Bengaluru,Karnataka,Clothing,Jacket,5.0,2499,0.0,UPI,Online
+ORD0335,2025-12-22,Rahul Mehta,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,2.0,1499,200.0,Cash,Offline
+ORD0336,2025-04-06,Vikas Shinde,Nagpur,Maharashtra,Clothing,Jacket,4.0,2499,250.0,Net Banking,Online
+ORD0337,2025-04-06,Rohan Gupta,Nagpur,Maharashtra,Clothing,T-Shirt,3.0,799,50.0,Net Banking,Online
+ORD0338,2025-04-10,Nisha Singh,Hyderabad,Telangana,Electronics,Wireless Mouse,4.0,699,50.0,Net Banking,Offline
+ORD0339,2025-12-30,Nisha Gupta,Delhi,Delhi,Home & Kitchen,Mixer Grinder,4.0,2899,250.0,Cash,Online
+ORD0340,2025-05-30,Amit Kulkarni,Pune,Maharashtra,Clothing,Jacket,1.0,2499,100.0,Credit Card,Offline
+ORD0341,2025-10-09,Anita Patil,Nagpur,Maharashtra,Home & Kitchen,Dinner Set,4.0,2199,300.0,Net Banking,Online
+ORD0342,2025-10-05,Nisha Sharma,Bengaluru,Karnataka,Home & Kitchen,Dinner Set,5.0,2199,200.0,Cash,Online
+ORD0343,2025-01-17,Vikas Kulkarni,Delhi,Delhi,Electronics,Bluetooth Speaker,2.0,1499,150.0,Debit Card,Online
+ORD0344,2025-10-29,Meena Verma,Ahmedabad,Gujarat,Electronics,Bluetooth Speaker,2.0,1499,100.0,Net Banking,Offline
+ORD0345,2025-04-16,Akash Sharma,Nagpur,Maharashtra,Clothing,Jacket,2.0,2499,100.0,Net Banking,Offline
+ORD0346,2025-06-15,Meena Kulkarni,Bengaluru,Karnataka,Clothing,Jacket,5.0,2499,50.0,Debit Card,Offline
+ORD0347,2025-05-22,Nisha Shinde,Pune,Maharashtra,Electronics,Keyboard,4.0,999,0.0,Credit Card,Online
+ORD0348,2025-12-13,Pooja Gupta,Nashik,Maharashtra,Electronics,Keyboard,3.0,999,100.0,Credit Card,Offline
+ORD0349,2025-11-21,Akash Patil,Delhi,Delhi,Furniture,Bookshelf,4.0,3299,0.0,Cash,Offline
+ORD0350,2025-10-25,Amit Patil,Hyderabad,Telangana,Clothing,T-Shirt,4.0,799,200.0,Cash,Offline
+ORD0351,2025-04-22,Pooja Joshi,Pune,Maharashtra,Home & Kitchen,Dinner Set,5.0,2199,250.0,Cash,Offline
+ORD0352,2025-10-17,Nisha Gupta,Hyderabad,Telangana,Furniture,Office Chair,3.0,6499,50.0,Debit Card,Online
+ORD0353,2025-03-05,Vivek Deshmukh,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,4.0,1499,0.0,Cash,Offline
+ORD0354,2025-11-29,Neha Deshmukh,Mumbai,Maharashtra,Furniture,Bookshelf,2.0,3299,50.0,Debit Card,Online
+ORD0355,2025-12-07,Vivek Shinde,Hyderabad,Telangana,Furniture,Office Chair,1.0,6499,200.0,Credit Card,Online
+ORD0356,2025-08-08,Kiran Patil,Delhi,Delhi,Home & Kitchen,Mixer Grinder,3.0,2899,100.0,UPI,Online
+ORD0357,2025-10-31,Sneha Mehta,Nashik,Maharashtra,Clothing,T-Shirt,1.0,799,50.0,Cash,Online
+ORD0358,2025-08-05,Meena Deshmukh,Mumbai,Maharashtra,Home & Kitchen,Electric Kettle,3.0,1299,0.0,Cash,Online
+ORD0359,2025-02-22,Rohan Verma,Nashik,Maharashtra,Furniture,Bookshelf,1.0,3299,0.0,Debit Card,Online
+ORD0360,2025-02-05,Anita Pawar,Delhi,Delhi,Home & Kitchen,Dinner Set,2.0,2199,50.0,UPI,Online
+ORD0361,2025-07-30,Suresh Shinde,Ahmedabad,Gujarat,Furniture,Study Table,2.0,4999,50.0,Cash,Online
+ORD0362,2025-10-29,Meena Singh,Pune,Maharashtra,Electronics,Bluetooth Speaker,2.0,1499,0.0,Debit Card,Offline
+ORD0363,2025-05-22,Kiran Patil,Hyderabad,Telangana,Home & Kitchen,Dinner Set,2.0,2199,100.0,Credit Card,Offline
+ORD0364,2025-09-23,Suresh Mehta,Mumbai,Maharashtra,Home & Kitchen,Mixer Grinder,3.0,2899,100.0,Credit Card,Offline
+ORD0365,2025-09-11,Pooja Patil,Bengaluru,Karnataka,Home & Kitchen,Mixer Grinder,1.0,2899,100.0,Credit Card,Offline
+ORD0366,2025-06-12,Rahul Singh,Pune,Maharashtra,Clothing,Jeans,1.0,1599,200.0,Net Banking,Offline
+ORD0367,2025-02-07,Amit Pawar,Hyderabad,Telangana,Clothing,Jeans,2.0,1599,300.0,UPI,Online
+ORD0368,2025-07-23,Anita Kulkarni,Bengaluru,Karnataka,Electronics,Headphones,1.0,1999,0.0,Net Banking,Offline
+ORD0369,2025-11-24,Anita Mehta,Delhi,Delhi,Home & Kitchen,Electric Kettle,4.0,1299,0.0,Net Banking,Online
+ORD0370,2025-09-19,Vivek Joshi,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,3.0,1499,0.0,Credit Card,Offline
+ORD0371,2025-12-24,Pooja Joshi,Delhi,Delhi,Clothing,Jacket,1.0,2499,150.0,UPI,Online
+ORD0372,2025-11-10,Suresh Sharma,Pune,Maharashtra,Furniture,Bookshelf,1.0,3299,300.0,Debit Card,Online
+ORD0373,2025-03-25,Vikas Verma,Pune,Maharashtra,Electronics,Wireless Mouse,2.0,699,0.0,Net Banking,Offline
+ORD0374,2025-03-02,Akash Sharma,Nagpur,Maharashtra,Furniture,Study Table,2.0,4999,150.0,Debit Card,Offline
+ORD0375,2025-12-31,Suresh Shinde,Bengaluru,Karnataka,Clothing,Jeans,1.0,1599,150.0,UPI,Offline
+ORD0376,2025-09-13,Nisha Pawar,Ahmedabad,Gujarat,Clothing,Jeans,3.0,1599,0.0,Credit Card,Offline
+ORD0377,2025-04-27,Meena Mehta,Nagpur,Maharashtra,Furniture,Office Chair,1.0,6499,0.0,UPI,Online
+ORD0378,2025-07-06,Pooja Deshmukh,Mumbai,Maharashtra,Electronics,Headphones,1.0,1999,300.0,Credit Card,Online
+ORD0379,2025-08-02,Vivek Verma,Delhi,Delhi,Electronics,Headphones,3.0,1999,100.0,Debit Card,Online
+ORD0380,2025-04-02,Sneha Mehta,Hyderabad,Telangana,Electronics,Bluetooth Speaker,5.0,1499,0.0,UPI,Offline
+ORD0381,2025-06-17,Priya Mehta,Pune,Maharashtra,Clothing,T-Shirt,3.0,799,150.0,Cash,Online
+ORD0382,2025-11-15,Sneha Gupta,Hyderabad,Telangana,Electronics,Headphones,3.0,1999,150.0,Debit Card,Offline
+ORD0383,2025-03-19,Amit Singh,Nashik,Maharashtra,Home & Kitchen,Electric Kettle,5.0,1299,100.0,UPI,Online
+ORD0384,2025-01-01,Akash Shinde,Hyderabad,Telangana,Home & Kitchen,Mixer Grinder,1.0,2899,200.0,Cash,Offline
+ORD0385,2025-08-03,Vikas Sharma,Pune,Maharashtra,Electronics,Headphones,5.0,1999,100.0,Credit Card,Offline
+ORD0386,2025-12-25,Vivek Verma,Pune,Maharashtra,Electronics,Wireless Mouse,2.0,699,250.0,Cash,Online
+ORD0387,2025-02-08,Suresh Pawar,Pune,Maharashtra,Clothing,Jeans,2.0,1599,250.0,UPI,Offline
+ORD0388,2025-06-11,Vivek Singh,Nagpur,Maharashtra,Electronics,Headphones,3.0,1999,150.0,Debit Card,Offline
+ORD0389,2025-04-14,Rahul Pawar,Ahmedabad,Gujarat,Furniture,Office Chair,2.0,6499,0.0,UPI,Online
+ORD0390,2025-06-10,Pooja Patil,Pune,Maharashtra,Electronics,Keyboard,4.0,999,300.0,Net Banking,Offline
+ORD0391,2025-05-16,Nisha Patil,Nashik,Maharashtra,Clothing,T-Shirt,3.0,799,300.0,UPI,Online
+ORD0392,2025-04-21,Nisha Verma,Bengaluru,Karnataka,Home & Kitchen,Electric Kettle,5.0,1299,0.0,Credit Card,Online
+ORD0393,2025-12-13,Neha Kulkarni,Nashik,Maharashtra,Furniture,Study Table,4.0,4999,0.0,Credit Card,Online
+ORD0394,2025-02-18,Vikas Patil,Delhi,Delhi,Clothing,T-Shirt,5.0,799,100.0,Credit Card,Online
+ORD0395,2025-04-12,Nisha Singh,Mumbai,Maharashtra,Electronics,Wireless Mouse,2.0,699,50.0,Debit Card,Online
+ORD0396,2025-04-12,Vivek Shinde,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,1.0,1499,0.0,Cash,Online
+ORD0397,2025-01-22,Vikas Sharma,Pune,Maharashtra,Home & Kitchen,Dinner Set,3.0,2199,0.0,Credit Card,Offline
+ORD0398,2025-12-16,Pooja Deshmukh,Delhi,Delhi,Clothing,T-Shirt,1.0,799,250.0,Debit Card,Online
+ORD0399,2025-03-18,Amit Pawar,Nagpur,Maharashtra,Furniture,Office Chair,3.0,6499,300.0,Net Banking,Online
+ORD0400,2025-02-01,Priya Kulkarni,Bengaluru,Karnataka,Clothing,T-Shirt,4.0,799,300.0,Cash,Online
+ORD0401,2025-11-19,Akash Mehta,Delhi,Delhi,Electronics,Headphones,5.0,1999,100.0,UPI,Offline
+ORD0402,2025-06-26,Vivek Pawar,Hyderabad,Telangana,Clothing,T-Shirt,5.0,799,300.0,Net Banking,Offline
+ORD0403,2025-06-13,Suresh Joshi,Delhi,Delhi,Furniture,Office Chair,2.0,6499,0.0,UPI,Offline
+ORD0404,2025-10-27,Sneha Deshmukh,Mumbai,Maharashtra,Home & Kitchen,Dinner Set,4.0,2199,200.0,UPI,Online
+ORD0405,2025-04-23,Suresh Singh,Nashik,Maharashtra,Furniture,Office Chair,5.0,6499,0.0,Debit Card,Online
+ORD0406,2025-12-24,Rohan Pawar,Nagpur,Maharashtra,Electronics,Headphones,5.0,1999,200.0,UPI,Offline
+ORD0407,2025-10-05,Neha Deshmukh,Nagpur,Maharashtra,Clothing,Jacket,2.0,2499,300.0,Cash,Online
+ORD0408,2025-01-11,Anita Gupta,Pune,Maharashtra,Electronics,Wireless Mouse,2.0,699,100.0,UPI,Offline
+ORD0409,2025-04-01,Vivek Verma,Nashik,Maharashtra,Home & Kitchen,Dinner Set,2.0,2199,200.0,UPI,Online
+ORD0410,2025-09-27,Nisha Verma,Nagpur,Maharashtra,Clothing,Jacket,2.0,2499,0.0,UPI,Offline
+ORD0411,2025-06-04,Rohan Deshmukh,Delhi,Delhi,Clothing,Jacket,1.0,2499,200.0,Credit Card,Offline
+ORD0412,2025-12-29,Anita Pawar,Ahmedabad,Gujarat,Home & Kitchen,Mixer Grinder,3.0,2899,50.0,Debit Card,Online
+ORD0413,2025-03-07,Rahul Sharma,Nagpur,Maharashtra,Furniture,Bookshelf,3.0,3299,150.0,Net Banking,Offline
+ORD0414,2025-11-10,Sneha Shinde,Mumbai,Maharashtra,Electronics,Keyboard,5.0,999,200.0,Net Banking,Online
+ORD0415,2025-05-02,Rohan Verma,Ahmedabad,Gujarat,Electronics,Keyboard,3.0,999,0.0,Credit Card,Online
+ORD0416,2025-04-18,Sneha Patil,Hyderabad,Telangana,Clothing,T-Shirt,1.0,799,150.0,Debit Card,Offline
+ORD0417,2025-07-17,Vikas Singh,Pune,Maharashtra,Home & Kitchen,Electric Kettle,1.0,1299,0.0,Credit Card,Offline
+ORD0418,2025-02-21,Nisha Gupta,Ahmedabad,Gujarat,Furniture,Bookshelf,3.0,3299,250.0,Net Banking,Online
+ORD0419,2025-05-31,Amit Verma,Nagpur,Maharashtra,Clothing,T-Shirt,1.0,799,0.0,Debit Card,Online
+ORD0420,2025-03-24,Meena Patil,Pune,Maharashtra,Furniture,Study Table,2.0,4999,250.0,Net Banking,Online
+ORD0421,2025-12-27,Amit Singh,Hyderabad,Telangana,Clothing,Jacket,5.0,2499,300.0,Credit Card,Offline
+ORD0422,2025-04-16,Sneha Singh,Nagpur,Maharashtra,Electronics,Wireless Mouse,1.0,699,200.0,Net Banking,Offline
+ORD0423,2025-01-26,Pooja Pawar,Bengaluru,Karnataka,Furniture,Office Chair,2.0,6499,0.0,Net Banking,Offline
+ORD0424,2025-08-07,Priya Kulkarni,Nagpur,Maharashtra,Electronics,Wireless Mouse,3.0,699,0.0,Net Banking,Offline
+ORD0425,2025-03-29,Kiran Kulkarni,Nashik,Maharashtra,Electronics,Bluetooth Speaker,1.0,1499,100.0,UPI,Offline
+ORD0426,2025-09-08,Vivek Shinde,Pune,Maharashtra,Furniture,Office Chair,4.0,6499,300.0,Debit Card,Online
+ORD0427,2025-07-09,Rahul Gupta,Delhi,Delhi,Electronics,Keyboard,3.0,999,250.0,UPI,Offline
+ORD0428,2025-05-18,Suresh Sharma,Ahmedabad,Gujarat,Clothing,T-Shirt,3.0,799,100.0,Credit Card,Online
+ORD0429,2025-10-29,Sneha Mehta,Pune,Maharashtra,Home & Kitchen,Mixer Grinder,3.0,2899,250.0,UPI,Offline
+ORD0430,2025-09-01,Neha Patil,Delhi,Delhi,Clothing,Jeans,4.0,1599,100.0,Cash,Online
+ORD0431,2025-03-27,Sneha Joshi,Nagpur,Maharashtra,Electronics,Bluetooth Speaker,4.0,1499,50.0,Credit Card,Online
+ORD0432,2025-11-18,Rahul Pawar,Delhi,Delhi,Electronics,Bluetooth Speaker,4.0,1499,100.0,Debit Card,Offline
+ORD0433,2025-10-10,Rohan Kulkarni,Pune,Maharashtra,Electronics,Bluetooth Speaker,4.0,1499,250.0,Net Banking,Offline
+ORD0434,2025-02-27,Pooja Deshmukh,Mumbai,Maharashtra,Home & Kitchen,Dinner Set,5.0,2199,250.0,Credit Card,Online
+ORD0435,2025-10-02,Vivek Verma,Pune,Maharashtra,Clothing,Jacket,1.0,2499,150.0,Cash,Offline
+ORD0436,2025-01-20,Rahul Kulkarni,Delhi,Delhi,Home & Kitchen,Mixer Grinder,4.0,2899,300.0,Cash,Online
+ORD0437,2025-12-20,Sneha Sharma,Delhi,Delhi,Electronics,Wireless Mouse,4.0,699,200.0,Cash,Offline
+ORD0438,2025-06-09,Neha Gupta,Hyderabad,Telangana,Electronics,Wireless Mouse,3.0,699,150.0,UPI,Online
+ORD0439,2025-05-18,Meena Singh,Nagpur,Maharashtra,Furniture,Office Chair,4.0,6499,200.0,Net Banking,Online
+ORD0440,2025-09-06,Akash Mehta,Nashik,Maharashtra,Clothing,T-Shirt,2.0,799,250.0,Debit Card,Online
+ORD0441,2025-03-11,Akash Mehta,Nagpur,Maharashtra,Electronics,Bluetooth Speaker,3.0,1499,250.0,Net Banking,Online
+ORD0442,2025-05-08,Amit Gupta,Nagpur,Maharashtra,Electronics,Headphones,2.0,1999,0.0,UPI,Offline
+ORD0443,2025-09-16,Pooja Shinde,Nashik,Maharashtra,Furniture,Office Chair,3.0,6499,300.0,UPI,Online
+ORD0444,2025-04-01,Nisha Gupta,Nashik,Maharashtra,Furniture,Study Table,4.0,4999,300.0,Net Banking,Offline
+ORD0445,2025-05-26,Amit Singh,Hyderabad,Telangana,Electronics,Keyboard,3.0,999,0.0,UPI,Online
+ORD0446,2025-05-18,Kiran Singh,Nashik,Maharashtra,Electronics,Headphones,2.0,1999,100.0,Net Banking,Online
+ORD0447,2025-11-04,Akash Sharma,Mumbai,Maharashtra,Clothing,T-Shirt,2.0,799,50.0,Credit Card,Offline
+ORD0448,2025-07-12,Nisha Verma,Bengaluru,Karnataka,Home & Kitchen,Electric Kettle,3.0,1299,250.0,Cash,Offline
+ORD0449,2025-10-27,Priya Sharma,Nashik,Maharashtra,Clothing,T-Shirt,3.0,799,250.0,Net Banking,Offline
+ORD0450,2025-02-02,Rohan Kulkarni,Bengaluru,Karnataka,Furniture,Office Chair,1.0,6499,300.0,Debit Card,Offline
+ORD0451,2025-03-18,Anita Joshi,Bengaluru,Karnataka,Home & Kitchen,Mixer Grinder,3.0,2899,100.0,UPI,Offline
+ORD0452,2025-12-02,Vikas Kulkarni,Hyderabad,Telangana,Home & Kitchen,Mixer Grinder,2.0,2899,0.0,Debit Card,Offline
+ORD0453,2025-06-25,Meena Joshi,Delhi,Delhi,Furniture,Bookshelf,1.0,3299,100.0,Net Banking,Offline
+ORD0454,2025-12-03,Vivek Mehta,Hyderabad,Telangana,Clothing,Jeans,3.0,1599,50.0,Credit Card,Offline
+ORD0455,2025-10-14,Akash Deshmukh,Pune,Maharashtra,Clothing,T-Shirt,2.0,799,150.0,Debit Card,Online
+ORD0456,2025-08-04,Akash Verma,Nashik,Maharashtra,Furniture,Study Table,2.0,4999,150.0,Debit Card,Offline
+ORD0457,2025-01-28,Nisha Shinde,Bengaluru,Karnataka,Clothing,T-Shirt,1.0,799,300.0,Net Banking,Online
+ORD0458,2025-12-15,Pooja Mehta,Ahmedabad,Gujarat,Electronics,Headphones,5.0,1999,0.0,Debit Card,Offline
+ORD0459,2025-06-25,Pooja Pawar,Mumbai,Maharashtra,Electronics,Keyboard,2.0,999,100.0,Cash,Online
+ORD0460,2025-09-07,Rohan Shinde,Hyderabad,Telangana,Home & Kitchen,Electric Kettle,2.0,1299,0.0,Credit Card,Offline
+ORD0461,2025-04-18,Akash Deshmukh,Mumbai,Maharashtra,Electronics,Wireless Mouse,4.0,699,150.0,Net Banking,Online
+ORD0462,2025-11-11,Pooja Shinde,Ahmedabad,Gujarat,Home & Kitchen,Dinner Set,1.0,2199,50.0,Cash,Offline
+ORD0463,2025-01-20,Anita Joshi,Delhi,Delhi,Clothing,T-Shirt,4.0,799,0.0,Debit Card,Online
+ORD0464,2025-01-10,Kiran Sharma,Hyderabad,Telangana,Home & Kitchen,Dinner Set,5.0,2199,100.0,Credit Card,Online
+ORD0465,2025-07-16,Anita Pawar,Hyderabad,Telangana,Furniture,Office Chair,2.0,6499,0.0,Debit Card,Online
+ORD0466,2025-08-22,Meena Mehta,Pune,Maharashtra,Electronics,Wireless Mouse,3.0,699,150.0,Net Banking,Offline
+ORD0467,2025-09-08,Rohan Joshi,Delhi,Delhi,Home & Kitchen,Mixer Grinder,2.0,2899,200.0,Credit Card,Offline
+ORD0468,2025-04-19,Meena Sharma,Mumbai,Maharashtra,Electronics,Headphones,2.0,1999,50.0,Net Banking,Online
+ORD0469,2025-11-24,Neha Mehta,Pune,Maharashtra,Furniture,Study Table,1.0,4999,250.0,Net Banking,Online
+ORD0470,2025-01-25,Meena Patil,Mumbai,Maharashtra,Home & Kitchen,Mixer Grinder,1.0,2899,0.0,Cash,Offline
+ORD0471,2025-08-31,Meena Deshmukh,Delhi,Delhi,Electronics,Bluetooth Speaker,5.0,1499,150.0,Credit Card,Online
+ORD0472,2025-11-15,Suresh Deshmukh,Bengaluru,Karnataka,Furniture,Bookshelf,1.0,3299,150.0,Cash,Online
+ORD0473,2025-09-12,Sneha Pawar,Pune,Maharashtra,Furniture,Office Chair,1.0,6499,0.0,Credit Card,Offline
+ORD0474,2025-03-24,Amit Mehta,Nashik,Maharashtra,Furniture,Study Table,4.0,4999,150.0,Cash,Online
+ORD0475,2025-01-07,Kiran Patil,Ahmedabad,Gujarat,Furniture,Study Table,2.0,4999,0.0,UPI,Offline
+ORD0476,2025-02-21,Vivek Kulkarni,Nagpur,Maharashtra,Electronics,Bluetooth Speaker,5.0,1499,0.0,Credit Card,Offline
+ORD0477,2025-02-21,Nisha Deshmukh,Bengaluru,Karnataka,Furniture,Office Chair,4.0,6499,0.0,UPI,Offline
+ORD0478,2025-03-01,Priya Sharma,Hyderabad,Telangana,Home & Kitchen,Dinner Set,3.0,2199,250.0,UPI,Online
+ORD0479,2025-11-15,Neha Patil,Nagpur,Maharashtra,Furniture,Study Table,3.0,4999,300.0,Debit Card,Offline
+ORD0480,2025-08-22,Neha Singh,Nagpur,Maharashtra,Electronics,Bluetooth Speaker,4.0,1499,250.0,Cash,Offline
+ORD0481,2025-03-23,Priya Singh,Nagpur,Maharashtra,Electronics,Bluetooth Speaker,2.0,1499,0.0,Net Banking,Offline
+ORD0482,2025-07-03,Suresh Sharma,Ahmedabad,Gujarat,Electronics,Keyboard,5.0,999,250.0,Credit Card,Offline
+ORD0483,2025-01-24,Priya Kulkarni,Ahmedabad,Gujarat,Electronics,Bluetooth Speaker,4.0,1499,300.0,Debit Card,Online
+ORD0484,2025-08-10,Kiran Joshi,Nashik,Maharashtra,Home & Kitchen,Mixer Grinder,3.0,2899,0.0,Cash,Offline
+ORD0485,2025-01-06,Kiran Deshmukh,Delhi,Delhi,Electronics,Keyboard,5.0,999,0.0,Net Banking,Offline
+ORD0486,2025-06-14,Sneha Verma,Ahmedabad,Gujarat,Electronics,Keyboard,1.0,999,300.0,Debit Card,Online
+ORD0487,2025-05-01,Priya Gupta,Nashik,Maharashtra,Clothing,Jeans,4.0,1599,250.0,Cash,Offline
+ORD0488,2025-03-02,Vikas Shinde,Pune,Maharashtra,Clothing,T-Shirt,4.0,799,200.0,UPI,Online
+ORD0489,2025-02-16,Akash Pawar,Delhi,Delhi,Furniture,Bookshelf,1.0,3299,0.0,Net Banking,Offline
+ORD0490,2025-07-06,Nisha Sharma,Nashik,Maharashtra,Home & Kitchen,Mixer Grinder,4.0,2899,200.0,Credit Card,Offline
+ORD0491,2025-12-03,Rohan Gupta,Hyderabad,Telangana,Clothing,Jeans,5.0,1599,300.0,UPI,Online
+ORD0492,2025-11-21,Akash Kulkarni,Nashik,Maharashtra,Electronics,Wireless Mouse,3.0,699,200.0,Net Banking,Offline
+ORD0493,2025-03-13,Nisha Singh,Pune,Maharashtra,Electronics,Wireless Mouse,2.0,699,300.0,UPI,Offline
+ORD0494,2025-04-21,Vikas Joshi,Nashik,Maharashtra,Electronics,Headphones,1.0,1999,250.0,Debit Card,Online
+ORD0495,2025-08-19,Vikas Shinde,Delhi,Delhi,Electronics,Wireless Mouse,5.0,699,0.0,Net Banking,Online
+ORD0496,2025-10-11,Vivek Singh,Ahmedabad,Gujarat,Electronics,Wireless Mouse,5.0,699,0.0,Net Banking,Offline
+ORD0497,2025-03-07,Priya Singh,Nagpur,Maharashtra,Home & Kitchen,Electric Kettle,5.0,1299,50.0,Net Banking,Offline
+ORD0498,2025-05-21,Pooja Verma,Delhi,Delhi,Furniture,Bookshelf,5.0,3299,100.0,Debit Card,Offline
+ORD0499,2025-12-26,Anita Verma,Nagpur,Maharashtra,Electronics,Keyboard,4.0,999,150.0,Net Banking,Online
+ORD0500,2025-12-18,Rohan Shinde,Nashik,Maharashtra,Electronics,Headphones,5.0,1999,150.0,Credit Card,Online
+ORD0121,2025-03-31,Priya Pawar,Delhi,Delhi,Clothing,Jacket,2.0,2499,50.0,Cash,Online
+ORD0251,2025-05-05,Amit Shinde,Nagpur,Maharashtra,Electronics,Bluetooth Speaker,5.0,1499,100.0,Net Banking,Online
